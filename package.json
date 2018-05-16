@@ -1,0 +1,11 @@
+{
+  "name": "singleton-test",
+  "version": "0.0.1",
+  "description": "Simple singleton test",
+  "main": "index.js",
+  "author": "larsgk@gmail.com",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "lit-html-element": "^0.9.1"
+  }
+}
