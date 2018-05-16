@@ -10,11 +10,15 @@ export class FancyButton extends LitElement {
             position: relative;
             user-select: none;
             cursor: pointer;
-            padding: 0.3em;
-            background: black;
+            padding: 0.5em 1.5em;
+            margin: 0.2em;
+            background: #111;
             color: white;
           }
           .btn:hover {
+            background-color:#444;
+          }
+          .btn:active {
             background-color:red;
           }
         </style>
